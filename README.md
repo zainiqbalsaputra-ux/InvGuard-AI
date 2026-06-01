@@ -21,4 +21,5 @@ Prototype Development (MVP)
 ## Team
 - Zain Iqbal Saputra — AI Engineer & Project Lead
 - Fika Irsandi Desvyanti — Research & Documentation
-- Olivia Melinda Patsireron — UI/UX & Presentation Support
+- Joans Henky Servatius Simanullang — UI/UX & Presentation Support
+- Olivia Meilinda Davtin Pasireron — Data Collection & Quality Assurance (QA)
