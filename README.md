@@ -5,6 +5,7 @@ AI-powered intelligent traffic enforcement and behaviour analysis system using C
 ## Features
 - Vehicle Detection
 - Traffic Monitoring
+- Behaviour Analysis
 - Violation Detection
 - Dashboard Analytics
 
@@ -13,3 +14,11 @@ AI-powered intelligent traffic enforcement and behaviour analysis system using C
 - YOLOv8
 - OpenCV
 - Streamlit
+
+## Current Status
+Prototype Development (MVP)
+
+## Team
+- Zain Iqbal Saputra — AI Engineer & Project Lead
+- Fika Irsandi Desvyanti — Research & Documentation
+- Olivia Melinda Patsireron — UI/UX & Presentation Support
